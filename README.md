@@ -1,9 +1,19 @@
 ### Hi there 👋
+一个Unity程序员
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinZ233&layout=compact)]()
+
+临时放一个最近写的项目  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-SimpleFrameWork)]()
+
+
 
 <!--
 **GavinZ233/GavinZ233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinZ233&show_icons=true&theme=radical)   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
