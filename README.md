@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinZ233&layout=compact)]()
 
 临时放一个最近写的项目  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-SimpleFrameWork)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-SimpleFrameWork)](https://github.com/GavinZ233/Learning-SimpleFrameWork)
 
 
 
