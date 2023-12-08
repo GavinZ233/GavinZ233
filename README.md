@@ -3,10 +3,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinZ233&layout=compact)]()
 
-临时放一个最近写的项目  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-SimpleFrameWork)](https://github.com/GavinZ233/Learning-SimpleFrameWork)
-
-
+分享几个笔记  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-SimpleFrameWork)](https://github.com/GavinZ233/Learning-SimpleFrameWork)                
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-Lua)](https://github.com/GavinZ233/Learning-Lua)                
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinZ233&repo=Learning-Lua)](https://github.com/GavinZ233/Learning-AndroidSDK)    
 
 <!--
 **GavinZ233/GavinZ233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
